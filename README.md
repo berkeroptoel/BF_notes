@@ -18,6 +18,10 @@ https://www.sharetechnote.com/html/Handbook_LTE_BeamForming.html
 ### Tutorial ders slide
 https://www.audiolabs-erlangen.de/fau/professor/habets/activities/ICASSP-2013/
 
+###pyroombeamforming
+https://pypi.org/project/pyroomacoustics/
+
+
 ### ses dosyaları
 http://www.festvox.org/cmu_arctic/
 
