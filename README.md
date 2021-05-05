@@ -5,8 +5,13 @@ https://thesofproject.github.io/latest/algos/tdfb/time_domain_fixed_beamformer.h
 
 https://www.sofproject.org/
 
-timedomain delays tez
+### timedomain delays tez
 
 https://summit.sfu.ca/item/20925
 
+
+### BF Matlab
+https://github.com/MiguelBlancoGalindo/MicArrayBeamforming
+
+https://www.sharetechnote.com/html/Handbook_LTE_BeamForming.html
 
