@@ -17,6 +17,10 @@ https://github.com/MiguelBlancoGalindo/MicArrayBeamforming
 
 https://www.sharetechnote.com/html/Handbook_LTE_BeamForming.html
 
+https://www.st.com/resource/en/design_tip/dm00528068-microphone-array-beamforming-in-the-pcm-and-pdm-domain-stmicroelectronics.pdf
+
+
+
 ### Tutorial ders slide
 https://www.audiolabs-erlangen.de/fau/professor/habets/activities/ICASSP-2013/
 
